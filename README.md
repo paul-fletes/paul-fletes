@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+
+### Front-End Developer by day 🧑🏻‍💻 sci-fi reader by night 📖
+
+- 🧑🏻‍💻 Former Dev Degree Intern at [Shopify](https://devdegree.ca/);<br>
+- 🎓 Applied CS at [Dominican Univ. of California](https://github.com/tech-at-DU);<br>
+
+⚙️ Most familiar with: `.js`, `.ts`, `.graphql`, `.rb`, `.html`, `.css`:<br>
+💬 Chat w/ me about **web dev**, **react, **crypto**, **sci-fi**
+
 
 <!--
 **paul-fletes/paul-fletes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
